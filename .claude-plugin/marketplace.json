@@ -1,0 +1,6 @@
+{
+  "name": "hazelchat",
+  "description": "The Hazelchat plugin for Claude.",
+  "owner": { "name": "Hazelchat", "email": "hello@hazelchat.co" },
+  "plugins": [ { "name": "hazelchat", "source": "./", "description": "Check and improve your Hazelchat website agent from Claude." } ]
+}

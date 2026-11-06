@@ -1,12 +1,15 @@
 {
   "name": "hazelchat",
   "displayName": "Hazelchat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check and improve your Hazelchat website agent from Claude: see what visitors asked, find questions it could not answer, test answers against your draft and add missing answers for your review. Nothing is published from Claude.",
   "author": { "name": "Hazelchat", "email": "hello@hazelchat.co", "url": "https://hazelchat.co/" },
-  "homepage": "https://hazelchat.co/docs/ai-assistants/",
+  "homepage": "https://hazelchat.co/",
   "repository": "https://github.com/hazelchat-co/claude-plugin",
   "license": "MIT",
+  "documentationUrl": "https://hazelchat.co/docs/ai-assistants/",
+  "supportUrl": "https://hazelchat.co/docs/ai-assistants/#support",
   "privacyPolicyUrl": "https://hazelchat.co/privacy/",
+  "termsOfServiceUrl": "https://hazelchat.co/terms/",
   "keywords": ["website-agent", "customer-questions", "knowledge-base", "agency"]
 }
